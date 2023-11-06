@@ -8,3 +8,6 @@ The code in this repo is the basis of a blog post on [How To Implement Continuou
 ## This is test commit
 ## This is a test commit for the feature
 ## Subhash Demo
+
+## feat: 1
+## bug: 1
