@@ -2,6 +2,9 @@
 
 <!--next-version-placeholder-->
 
+## v0.4.1 (2023-11-06)
+
+
 ## v0.4.0 (2023-11-06)
 ### Feature
 * **Login:** Added login flow ([`9daf525`](https://github.com/gk-duplo/shapes/commit/9daf525ca7f9fa939ace1c326a32cc46c7fadd8e))
