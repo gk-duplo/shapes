@@ -2,6 +2,9 @@
 
 <!--next-version-placeholder-->
 
+## v0.3.2 (2023-11-06)
+
+
 ## v0.3.1 (2023-11-06)
 ### Documentation
 * Ganesh test commit ([`2d77278`](https://github.com/gk-duplo/shapes/commit/2d77278dddf646c9862c2bb0d4c85cf76739ccef))
