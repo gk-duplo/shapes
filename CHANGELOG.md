@@ -2,6 +2,13 @@
 
 <!--next-version-placeholder-->
 
+## v0.5.0 (2023-11-06)
+### Feature
+* **Login:** Added feature 1 ([`d9be661`](https://github.com/gk-duplo/shapes/commit/d9be66108e32d00a77b2844857b09e57fbf67c23))
+
+### Fix
+* **RBAC:** Fixed bug ([`b2c577c`](https://github.com/gk-duplo/shapes/commit/b2c577c16036dd817311a19a7046f54d2b76cb6e))
+
 ## v0.4.1 (2023-11-06)
 
 
