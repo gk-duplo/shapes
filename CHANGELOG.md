@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.3.1 (2023-11-06)
+### Documentation
+* Ganesh test commit ([`2d77278`](https://github.com/gk-duplo/shapes/commit/2d77278dddf646c9862c2bb0d4c85cf76739ccef))
+
 ## v0.3.0 (2023-02-07)
 ### Feature
 * Adds cylinder type ([`605c538`](https://github.com/Lmooney25/shapes/commit/605c5386a6a12046322bad38826de466dd13c9a0))
